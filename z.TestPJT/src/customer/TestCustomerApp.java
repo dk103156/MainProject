@@ -4,7 +4,8 @@ public class TestCustomerApp {
 
 	public static void main(String[] args) {
 			
-		System.out.println("지지지지지지지지지지지지ㅣ지지지지지지지지지지지지지지지지민이");
+		System.out.println("수정이언니 ~~~~~~~");
+		
 	}
 
 }
